@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 - will be introducing my self a little bit!
 
 <!--
 **330pperry/330pperry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,6 @@ Getting to kow new technologies suchc as Azure, AWS, Cloud, iOT..
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
